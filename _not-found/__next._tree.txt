@@ -1,6 +1,6 @@
-:HL["/nima-cafe-pages/_next/static/chunks/1w9dp2zxgakw2.css","style"]
+:HL["/nima-cafe-pages/_next/static/chunks/22u3r0-_mpi7c.css","style"]
 :HL["/nima-cafe-pages/_next/static/chunks/1zpzffoyhowkr.css","style"]
 :HL["/nima-cafe-pages/_next/static/chunks/21offak6n5dtm.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"A4E5Vca1WA44OLs34g6LJ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"m4bjgM2H3283AEPsQgZsG","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
