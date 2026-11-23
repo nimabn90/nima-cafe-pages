@@ -1,0 +1,73 @@
+1:"$Sreact.fragment"
+2:"/nima-cafe-pages/_next/static/chunks/44j15h9p7b1wc.js"
+3:"/nima-cafe-pages/_next/static/chunks/0b7rombc6_gmw.js"
+4:"/nima-cafe-pages/_next/static/chunks/44n_2sk0xbajr.js"
+5:"ProductDetailsProvider"
+6:I[9815,["$2","$3","$4"],"$5"]
+7:I[93963,["$2","$3","$4"],"Header"]
+8:I[39756,["$2","$3","$4"],"default"]
+9:"/nima-cafe-pages/_next/static/chunks/13b94gyuac5l3.js"
+a:I[58298,["$2","$3","$4","$9"],"default"]
+b:I[37457,["$2","$3","$4"],"default"]
+c:"/nima-cafe-pages/_next/static/chunks/388j2ly54s93f.js"
+d:I[27919,["$2","$3","$4","$c"],"RecoveryBeans"]
+e:I[22016,["$2","$3","$4"],""]
+f:I[81615,["$2","$3","$4"],"CoffeeBeans"]
+10:I[85437,["$2","$3","$4"],"Image"]
+11:I[5014,["$2","$3","$4"],"default"]
+12:I[48315,["$2","$3","$4"],"DeveloperCredit"]
+13:I[33967,["$2","$3","$4"],"ScrollReveals"]
+14:I[46039,["$2","$3","$4"],"OfflineSupport"]
+20:"ViewportBoundary"
+21:I[97367,["$2","$3","$4"],"$20"]
+22:"MetadataBoundary"
+23:I[97367,["$2","$3","$4"],"$22"]
+24:"$Sreact.suspense"
+:HL["/nima-cafe-pages/_next/static/chunks/1w9dp2zxgakw2.css","style"]
+:HL["/nima-cafe-pages/_next/static/chunks/1zpzffoyhowkr.css","style"]
+:HL["/nima-cafe-pages/_next/static/chunks/21offak6n5dtm.css","style"]
+16:X
+19:X
+19:C
+1c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","article",null,{"className":"frame Wk7y7G_product","children":[["$","$Le",null,{"href":"/menu#item-lemon","prefetch":false,"className":"Wk7y7G_back","children":[["$","$L11",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"size":18,"aria-hidden":"true"}]," بازگشت به منو"]}],"$L1d"]}],null,"$L1e"]}],"p":"$@1f","v":null,"s":"$16"}}]]
+1a:[["children",{"s":{"n":"id","t":"d","k":"lemon","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@1b","v":"$19","s":"$16"},"c":"$Q1c"}]]
+17:[["children",{"s":"menu","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@18","v":"$19","s":"$16"},"c":"$Q1a"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/nima-cafe-pages/_next/static/chunks/1w9dp2zxgakw2.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/nima-cafe-pages/_next/static/chunks/1zpzffoyhowkr.css","precedence":"next"}],["$","script","script-0",{"src":"/nima-cafe-pages/_next/static/chunks/44j15h9p7b1wc.js","async":true}],["$","script","script-1",{"src":"/nima-cafe-pages/_next/static/chunks/0b7rombc6_gmw.js","async":true}],["$","script","script-2",{"src":"/nima-cafe-pages/_next/static/chunks/44n_2sk0xbajr.js","async":true}]],["$","html",null,{"lang":"fa","dir":"rtl","className":"MwbMZq_variable","children":["$","body",null,{"children":["$","$L6",null,{"shareOrigin":"https://nimabn90.github.io","children":[["$","a",null,{"className":"skip","href":"#main","children":"رفتن به محتوای صفحه"}],["$","$L7",null,{}],["$","main",null,{"id":"main","tabIndex":-1,"children":["$","$L8",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[["$","link","0",{"rel":"stylesheet","href":"/nima-cafe-pages/_next/static/chunks/21offak6n5dtm.css","precedence":"next"}]],"errorScripts":[["$","script","script-0",{"src":"/nima-cafe-pages/_next/static/chunks/13b94gyuac5l3.js","async":true}]],"template":["$","$Lb",null,{}],"notFound":[["$","section",null,{"className":"recovery","data-recovery":"missing","aria-labelledby":"recovery-title","children":["$","div",null,{"className":"recovery-layout","children":[["$","div",null,{"className":"recovery-art","children":[["$","div",null,{"className":"recovery-steam","aria-hidden":"true","children":[["$","i",null,{}],["$","i",null,{}],["$","i",null,{}]]}],["$","div",null,{"className":"recovery-porcelain","aria-hidden":"true","children":[["$","div",null,{"className":"recovery-saucer"}],["$","div",null,{"className":"recovery-cup","children":["$","span",null,{"className":"recovery-cup-code","lang":"en","dir":"ltr","children":"404"}]}]]}],["$","$Ld",null,{}]]}],["$","div",null,{"className":"recovery-copy","children":[["$","h1",null,{"id":"recovery-title","children":["قهوهٔ شما در این صفحه"," ",["$","em",null,{"children":"وجود ندارد."}]]}],["$","p",null,{"className":"recovery-detail","children":"این نشانی پیدا نشد. اگر هوس قهوه کرده‌اید، منوی نیما همین نزدیکی است."}],["$","div",null,{"className":"recovery-actions","children":[["$","$Le",null,{"className":"recovery-primary","href":"/menu","prefetch":false,"children":"مشاهدهٔ منوی کافه"}],["$","$Le",null,{"className":"recovery-secondary","href":"/","prefetch":false,"children":"بازگشت به خانه"}]]}],["$","p",null,{"className":"recovery-label","children":"404 · صفحه پیدا نشد"}]]}]]}]}],[["$","link","0",{"rel":"stylesheet","href":"/nima-cafe-pages/_next/static/chunks/21offak6n5dtm.css","precedence":"next"}]]]}]}],["$","footer",null,{"className":"nP6W3G_footer","children":[["$","$Lf",null,{}],["$","div",null,{"className":"frame nP6W3G_layout","data-reveal-list":true,"children":[["$","$Le",null,{"className":"nP6W3G_wordmark","href":"/","prefetch":false,"children":[["$","$L10",null,{"src":"/nima-cafe-pages/images/nima-mark.webp","alt":"","aria-hidden":"true","width":104,"height":104,"sizes":"104px","className":"coffee-mark "}],["$","span",null,{"children":[["$","strong",null,{"children":"نیما کافه"}],["$","span",null,{"className":"nP6W3G_latin","lang":"en","dir":"ltr","children":"Nima Café"}]]}]]}],["$","div",null,{"className":"nP6W3G_links","children":["$","nav",null,{"aria-label":"پیوندهای پایانی","children":[["$","$Le","/",{"href":"/","prefetch":false,"children":"خانه"}],["$","$Le","/menu",{"href":"/menu","prefetch":false,"children":"منو"}],["$","$Le","/about",{"href":"/about","prefetch":false,"children":"داستان ما"}],["$","$Le","/gallery",{"href":"/gallery","prefetch":false,"children":"گالری"}],["$","$Le","/contact",{"href":"/contact","prefetch":false,"children":"تماس"}]]}]}],["$","div",null,{"className":"nP6W3G_visit","children":[["$","p",null,{"children":"قرار ما، کنار پنجره."}],["$","$Le",null,{"href":"/contact","prefetch":false,"data-bean-trigger":true,"children":["ساعت کار و نشانی ",["$","$L11",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"size":17,"aria-hidden":"true"}]]}]]}]]}],["$","$L12",null,{}]]}],["$","$L13",null,{}],["$","$L14",null,{}]]}]}]}]]}],"p":"$@15","v":null,"s":"$16"},"c":"$Q17"},"h":{"r":["$","$1","h",{"children":[null,["$","$L21",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content"}],["$","meta","2",{"name":"theme-color","content":"#191511"}]]}],["$","$L23",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$24",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"نیما کافه | لیموناد ریحان"}],["$","meta","1",{"name":"description","content":"آب لیموی تازه، ریحان و آب گازدار"}],["$","meta","2",{"name":"application-name","content":"نیما کافه"}],"$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39"]}]}],null]}],"$L3a"]}],"p":"$@3b","v":null,"s":"$16"}},"a":"$@3c","u":"$@3d","b":"A4E5Vca1WA44OLs34g6LJ"}
+3e:I[22701,["$2","$3","$4"],"ProductPhotos"]
+3f:I[40788,["$2","$3","$4"],"ProductShare"]
+40:I[97367,["$2","$3","$4"],"OutletBoundary"]
+42:I[27201,["$2","$3","$4"],"IconMark"]
+1d:["$","div",null,{"className":"_1WKwOG_layout","children":[["$","$L3e","lemon",{"item":{"id":"lemon","name":"لیموناد ریحان","description":"آب لیموی تازه، ریحان و آب گازدار","ingredients":["آب لیموی تازه","ریحان","آب گازدار"],"price":155000,"categoryId":"cold","categoryName":"نوشیدنی سرد"}}],["$","div",null,{"className":"_1WKwOG_details","children":[["$","h1",null,{"children":"لیموناد ریحان"}],["$","p",null,{"children":"آب لیموی تازه، ریحان و آب گازدار"}],["$","section",null,{"aria-label":"محتویات محصول","className":"_1WKwOG_ingredients","children":[["$","h3",null,{"children":"ترکیبات"}],["$","ul",null,{"children":[["$","li","آب لیموی تازه",{"children":"آب لیموی تازه"}],["$","li","ریحان",{"children":"ریحان"}],["$","li","آب گازدار",{"children":"آب گازدار"}]]}]]}],["$","$L3f",null,{"name":"لیموناد ریحان","url":"https://nimabn90.github.io/nima-cafe-pages/menu/lemon/","children":["$","strong",null,{"className":"_1WKwOG_price","children":["۱۵۵٬۰۰۰"," ",["$","small",null,{"children":"تومان"}]]}]}]]}]]}]
+1e:["$","$L40",null,{"children":["$","$24",null,{"name":"Next.MetadataOutlet","children":"$@41"}]}]
+25:["$","link","3",{"rel":"canonical","href":"https://nimabn90.github.io/nima-cafe-pages/menu/lemon/"}]
+26:["$","meta","4",{"property":"og:title","content":"لیموناد ریحان | نیما کافه"}]
+27:["$","meta","5",{"property":"og:description","content":"آب لیموی تازه، ریحان و آب گازدار"}]
+28:["$","meta","6",{"property":"og:url","content":"https://nimabn90.github.io/nima-cafe-pages/menu/lemon/"}]
+29:["$","meta","7",{"property":"og:site_name","content":"نیما کافه"}]
+2a:["$","meta","8",{"property":"og:locale","content":"fa_IR"}]
+2b:["$","meta","9",{"property":"og:image","content":"https://nimabn90.github.io/nima-cafe-pages/images/share/lemon-v1.jpg"}]
+2c:["$","meta","10",{"property":"og:image:type","content":"image/jpeg"}]
+2d:["$","meta","11",{"property":"og:image:width","content":"1200"}]
+2e:["$","meta","12",{"property":"og:image:height","content":"630"}]
+2f:["$","meta","13",{"property":"og:image:alt","content":"تصویر لیموناد ریحان از منوی نیما کافه"}]
+30:["$","meta","14",{"property":"og:type","content":"website"}]
+31:["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}]
+32:["$","meta","16",{"name":"twitter:title","content":"لیموناد ریحان | نیما کافه"}]
+33:["$","meta","17",{"name":"twitter:description","content":"آب لیموی تازه، ریحان و آب گازدار"}]
+34:["$","meta","18",{"name":"twitter:image","content":"https://nimabn90.github.io/nima-cafe-pages/images/share/lemon-v1.jpg"}]
+35:["$","meta","19",{"name":"twitter:image:alt","content":"تصویر لیموناد ریحان از منوی نیما کافه"}]
+36:["$","link","20",{"rel":"icon","href":"/nima-cafe-pages/favicon-32.png","sizes":"32x32","type":"image/png"}]
+37:["$","link","21",{"rel":"icon","href":"/nima-cafe-pages/favicon-192.png","sizes":"192x192","type":"image/png"}]
+38:["$","link","22",{"rel":"apple-touch-icon","href":"/nima-cafe-pages/apple-touch-icon.png","sizes":"180x180","type":"image/png"}]
+39:["$","$L42","23",{}]
+3a:["$","meta",null,{"name":"next-size-adjust","content":""}]
+16:300
+41:null
+3d:true
+16:C
+3c:0
+1b:"$undefined"
+18:"$undefined"
+15:"$undefined"
+3b:"$undefined"
+1f:"$undefined"

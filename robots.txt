@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://nimabn90.github.io/nima-cafe-pages/sitemap.xml

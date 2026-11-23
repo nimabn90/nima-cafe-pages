@@ -1,0 +1,77 @@
+1:"$Sreact.fragment"
+2:"/nima-cafe-pages/_next/static/chunks/44j15h9p7b1wc.js"
+3:"/nima-cafe-pages/_next/static/chunks/0b7rombc6_gmw.js"
+4:"/nima-cafe-pages/_next/static/chunks/44n_2sk0xbajr.js"
+5:"ProductDetailsProvider"
+6:I[9815,["$2","$3","$4"],"$5"]
+7:I[93963,["$2","$3","$4"],"Header"]
+8:I[39756,["$2","$3","$4"],"default"]
+9:"/nima-cafe-pages/_next/static/chunks/13b94gyuac5l3.js"
+a:I[58298,["$2","$3","$4","$9"],"default"]
+b:I[37457,["$2","$3","$4"],"default"]
+c:"/nima-cafe-pages/_next/static/chunks/388j2ly54s93f.js"
+d:I[27919,["$2","$3","$4","$c"],"RecoveryBeans"]
+e:"/nima-cafe-pages/_next/static/chunks/0b-xjib9nye5q.js"
+f:I[22016,["$2","$3","$4","$e"],""]
+10:I[81615,["$2","$3","$4"],"CoffeeBeans"]
+11:I[85437,["$2","$3","$4","$e"],"Image"]
+12:I[5014,["$2","$3","$4","$e"],"default"]
+13:I[48315,["$2","$3","$4"],"DeveloperCredit"]
+14:I[33967,["$2","$3","$4"],"ScrollReveals"]
+15:I[46039,["$2","$3","$4"],"OfflineSupport"]
+1c:I[55152,["$2","$3","$4","$e"],"StackedSection"]
+24:"ViewportBoundary"
+25:I[97367,["$2","$3","$4"],"$24"]
+26:"MetadataBoundary"
+27:I[97367,["$2","$3","$4"],"$26"]
+28:"$Sreact.suspense"
+:HL["/nima-cafe-pages/_next/static/chunks/1w9dp2zxgakw2.css","style"]
+:HL["/nima-cafe-pages/_next/static/chunks/1zpzffoyhowkr.css","style"]
+:HL["/nima-cafe-pages/_next/static/chunks/21offak6n5dtm.css","style"]
+17:X
+1a:X
+1a:C
+1b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","article",null,{"className":"kNXNca_story","children":[["$","div",null,{"className":"kNXNca_chapters","children":[["$","$L1c",null,{"className":"kNXNca_cover","aria-labelledby":"about-title","children":[["$","$L11",null,{"src":"/nima-cafe-pages/images/interior.webp","alt":"نور عصر روی میزهای چوبی و نیمکت کنار پنجره","fill":true,"sizes":"(max-width: 900px) max(100vw, 140svh), 100vw","preload":true}],"$L1d"]}],"$L1e","$L1f"]}],"$L20"]}],["$L21"],"$L22"]}],"p":"$@23","v":null,"s":"$17"}}]]
+18:[["children",{"s":"about","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@19","v":"$1a","s":"$17"},"c":"$Q1b"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/nima-cafe-pages/_next/static/chunks/1w9dp2zxgakw2.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/nima-cafe-pages/_next/static/chunks/1zpzffoyhowkr.css","precedence":"next"}],["$","script","script-0",{"src":"/nima-cafe-pages/_next/static/chunks/44j15h9p7b1wc.js","async":true}],["$","script","script-1",{"src":"/nima-cafe-pages/_next/static/chunks/0b7rombc6_gmw.js","async":true}],["$","script","script-2",{"src":"/nima-cafe-pages/_next/static/chunks/44n_2sk0xbajr.js","async":true}]],["$","html",null,{"lang":"fa","dir":"rtl","className":"MwbMZq_variable","children":["$","body",null,{"children":["$","$L6",null,{"shareOrigin":"https://nimabn90.github.io","children":[["$","a",null,{"className":"skip","href":"#main","children":"رفتن به محتوای صفحه"}],["$","$L7",null,{}],["$","main",null,{"id":"main","tabIndex":-1,"children":["$","$L8",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[["$","link","0",{"rel":"stylesheet","href":"/nima-cafe-pages/_next/static/chunks/21offak6n5dtm.css","precedence":"next"}]],"errorScripts":[["$","script","script-0",{"src":"/nima-cafe-pages/_next/static/chunks/13b94gyuac5l3.js","async":true}]],"template":["$","$Lb",null,{}],"notFound":[["$","section",null,{"className":"recovery","data-recovery":"missing","aria-labelledby":"recovery-title","children":["$","div",null,{"className":"recovery-layout","children":[["$","div",null,{"className":"recovery-art","children":[["$","div",null,{"className":"recovery-steam","aria-hidden":"true","children":[["$","i",null,{}],["$","i",null,{}],["$","i",null,{}]]}],["$","div",null,{"className":"recovery-porcelain","aria-hidden":"true","children":[["$","div",null,{"className":"recovery-saucer"}],["$","div",null,{"className":"recovery-cup","children":["$","span",null,{"className":"recovery-cup-code","lang":"en","dir":"ltr","children":"404"}]}]]}],["$","$Ld",null,{}]]}],["$","div",null,{"className":"recovery-copy","children":[["$","h1",null,{"id":"recovery-title","children":["قهوهٔ شما در این صفحه"," ",["$","em",null,{"children":"وجود ندارد."}]]}],["$","p",null,{"className":"recovery-detail","children":"این نشانی پیدا نشد. اگر هوس قهوه کرده‌اید، منوی نیما همین نزدیکی است."}],["$","div",null,{"className":"recovery-actions","children":[["$","$Lf",null,{"className":"recovery-primary","href":"/menu","prefetch":false,"children":"مشاهدهٔ منوی کافه"}],["$","$Lf",null,{"className":"recovery-secondary","href":"/","prefetch":false,"children":"بازگشت به خانه"}]]}],["$","p",null,{"className":"recovery-label","children":"404 · صفحه پیدا نشد"}]]}]]}]}],[["$","link","0",{"rel":"stylesheet","href":"/nima-cafe-pages/_next/static/chunks/21offak6n5dtm.css","precedence":"next"}]]]}]}],["$","footer",null,{"className":"nP6W3G_footer","children":[["$","$L10",null,{}],["$","div",null,{"className":"frame nP6W3G_layout","data-reveal-list":true,"children":[["$","$Lf",null,{"className":"nP6W3G_wordmark","href":"/","prefetch":false,"children":[["$","$L11",null,{"src":"/nima-cafe-pages/images/nima-mark.webp","alt":"","aria-hidden":"true","width":104,"height":104,"sizes":"104px","className":"coffee-mark "}],["$","span",null,{"children":[["$","strong",null,{"children":"نیما کافه"}],["$","span",null,{"className":"nP6W3G_latin","lang":"en","dir":"ltr","children":"Nima Café"}]]}]]}],["$","div",null,{"className":"nP6W3G_links","children":["$","nav",null,{"aria-label":"پیوندهای پایانی","children":[["$","$Lf","/",{"href":"/","prefetch":false,"children":"خانه"}],["$","$Lf","/menu",{"href":"/menu","prefetch":false,"children":"منو"}],["$","$Lf","/about",{"href":"/about","prefetch":false,"children":"داستان ما"}],["$","$Lf","/gallery",{"href":"/gallery","prefetch":false,"children":"گالری"}],["$","$Lf","/contact",{"href":"/contact","prefetch":false,"children":"تماس"}]]}]}],["$","div",null,{"className":"nP6W3G_visit","children":[["$","p",null,{"children":"قرار ما، کنار پنجره."}],["$","$Lf",null,{"href":"/contact","prefetch":false,"data-bean-trigger":true,"children":["ساعت کار و نشانی ",["$","$L12",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"size":17,"aria-hidden":"true"}]]}]]}]]}],["$","$L13",null,{}]]}],["$","$L14",null,{}],["$","$L15",null,{}]]}]}]}]]}],"p":"$@16","v":null,"s":"$17"},"c":"$Q18"},"h":{"r":["$","$1","h",{"children":[null,["$","$L25",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content"}],["$","meta","2",{"name":"theme-color","content":"#191511"}]]}],["$","$L27",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$28",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"نیما کافه | داستان ما"}],["$","meta","1",{"name":"description","content":"داستان نیما کافه، از انتخاب دانه تا یک فنجان کنار پنجره."}],"$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e"]}]}],null]}],"$L3f"]}],"p":"$@40","v":null,"s":"$17"}},"a":"$@41","u":"$@42","b":"A4E5Vca1WA44OLs34g6LJ"}
+43:I[80400,["$2","$3","$4","$e"],"CoffeeJourney"]
+44:I[97367,["$2","$3","$4"],"OutletBoundary"]
+46:I[27201,["$2","$3","$4"],"IconMark"]
+1d:["$","div",null,{"className":"frame kNXNca_coverTitle","data-reveal":"repeat","children":[["$","div",null,{"children":[["$","h1",null,{"id":"about-title","children":["داستان ",["$","em",null,{"children":"نیما."}]]}],["$","p",null,{"children":"از یک میز کنار پنجره شروع شد."}]]}],["$","a",null,{"href":"#pause-title","className":"kNXNca_continue","aria-label":"ادامهٔ داستان","children":["$","$L12",null,{"icon":{"name":"arrow-down","size":24,"node":[["path",{"d":"M12 5v14","key":"s699le"}],["path",{"d":"m19 12-7 7-7-7","key":"1idqje"}]]},"size":21,"aria-hidden":"true"}]}]]}]
+1e:["$","$L1c",null,{"className":"kNXNca_chapter","aria-labelledby":"pause-title","children":["$","div",null,{"className":"frame kNXNca_content","children":[["$","div",null,{"className":"kNXNca_intro","children":[["$","div",null,{"className":"kNXNca_botanical","data-reveal":"repeat","children":["$","$L11",null,{"src":"/nima-cafe-pages/images/about-coffee-branch.webp","alt":"","width":696,"height":728,"sizes":"(max-width: 650px) 40vw, 350px"}]}],["$","div",null,{"className":"kNXNca_copy","data-reveal":"repeat","children":[["$","h2",null,{"id":"pause-title","children":["از یک فنجان،",["$","br",null,{}],"تا یک ",["$","em",null,{"children":"مکث ماندگار"}]]}],["$","p",null,{"children":"نیما از خیال یک میز کنار پنجره شروع شد. از انتخاب دانه تا ریختن قهوه در فنجان، به جزئیاتی فکر کردیم که آدم را چند دقیقه بیشتر سر میز نگه می‌دارند."}]]}]]}],["$","ul",null,{"className":"kNXNca_values","data-reveal-list":true,"children":[["$","li","قهوهٔ تخصصی",{"data-reveal":"repeat","children":[["$","$L12",null,{"icon":{"name":"coffee","size":24,"node":[["path",{"d":"M10 2v2","key":"7u0qdc"}],["path",{"d":"M14 2v2","key":"6buw04"}],["path",{"d":"M16 8a1 1 0 0 1 1 1v8a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V9a1 1 0 0 1 1-1h14a4 4 0 1 1 0 8h-1","key":"pwadti"}],["path",{"d":"M6 2v2","key":"colzsn"}]]},"size":28,"aria-hidden":"true"}],["$","strong",null,{"children":"قهوهٔ تخصصی"}],["$","span",null,{"children":"توجه به عطر و طعم"}]]}],["$","li","دانه‌های منتخب",{"data-reveal":"repeat","children":[["$","$L12",null,{"icon":{"name":"bean","size":24,"node":[["path",{"d":"M10.165 6.598C9.954 7.478 9.64 8.36 9 9c-.64.64-1.521.954-2.402 1.165A6 6 0 0 0 8 22c7.732 0 14-6.268 14-14a6 6 0 0 0-11.835-1.402Z","key":"1tvzk7"}],["path",{"d":"M5.341 10.62a4 4 0 1 0 5.279-5.28","key":"2cyri2"}]]},"size":28,"aria-hidden":"true"}],["$","strong",null,{"children":"دانه‌های منتخب"}],["$","span",null,{"children":"با دقت در انتخاب"}]]}],["$","li","جامعه‌ای گرم",{"data-reveal":"repeat","children":[["$","$L12",null,{"icon":{"name":"users-round","size":24,"node":[["path",{"d":"M18 21a8 8 0 0 0-16 0","key":"3ypg7q"}],["circle",{"cx":"10","cy":"8","r":"5","key":"o932ke"}],["path",{"d":"M22 20c0-3.37-2-6.5-4-8a5 5 0 0 0-.45-8.3","key":"10s06x"}]],"aliases":["users-2"]},"size":28,"aria-hidden":"true"}],["$","strong",null,{"children":"جامعه‌ای گرم"}],["$","span",null,{"children":"برای دوستداران قهوه"}]]}]]}],["$","$Lf",null,{"href":"/gallery","prefetch":false,"className":"kNXNca_galleryLink","aria-label":"دیدن قاب‌های نیما","data-reveal":"repeat","children":[["$","$L11",null,{"src":"/nima-cafe-pages/images/window-cappuccino.webp","alt":"فنجان کاپوچینو روی میز چوبی در نور پنجره","fill":true,"sizes":"(max-width: 650px) calc(100vw - 36px), (max-width: 1100px) 90vw, 1020px"}],["$","span",null,{"children":["دیدن قاب‌های نیما ",["$","$L12",null,{"icon":"$0:t:t:d:r:props:children:1:props:children:props:children:props:children:3:props:children:1:props:children:2:props:children:1:props:children:1:props:icon","size":18,"aria-hidden":"true"}]]}]]}]]}]}]
+1f:["$","$L1c",null,{"className":"kNXNca_journey","aria-labelledby":"bar-story-title","children":["$","div",null,{"className":"frame kNXNca_content","children":[["$","div",null,{"className":"kNXNca_journeyHead","data-reveal":"repeat","children":[["$","h2",null,{"id":"bar-story-title","children":["مسیر یک ",["$","em",null,{"children":"فنجان عالی"}]]}],["$","p",null,{"children":"از مزرعه تا فنجان، چهار مرحله برای رسیدن به طعم دلخواه."}]]}],["$","$L43",null,{}]]}]}]
+20:["$","div",null,{"className":"kNXNca_quotePanel","children":["$","div",null,{"className":"frame kNXNca_quoteInner","data-reveal":"repeat","children":[["$","$L11",null,{"src":"/nima-cafe-pages/images/drawer-coffee-beans.webp","alt":"","width":420,"height":280,"className":"kNXNca_quoteBeans","sizes":"(max-width: 700px) 50vw, 420px"}],["$","blockquote",null,{"className":"kNXNca_quote","children":[["$","span",null,{"aria-hidden":"true","className":"kNXNca_quoteMark","children":"”"}],["$","p",null,{"children":"در نیما کافه، عطر قهوه دور یک میز جمعمان می‌کند. گاهی همان چند دقیقه، بهترین بخش روز است."}]]}]]}]}]
+21:["$","script","script-0",{"src":"/nima-cafe-pages/_next/static/chunks/0b-xjib9nye5q.js","async":true}]
+22:["$","$L44",null,{"children":["$","$28",null,{"name":"Next.MetadataOutlet","children":"$@45"}]}]
+29:["$","meta","2",{"name":"application-name","content":"نیما کافه"}]
+2a:["$","link","3",{"rel":"canonical","href":"https://nimabn90.github.io/nima-cafe-pages/about/"}]
+2b:["$","meta","4",{"property":"og:title","content":"داستان ما | نیما کافه"}]
+2c:["$","meta","5",{"property":"og:description","content":"داستان نیما کافه، از انتخاب دانه تا یک فنجان کنار پنجره."}]
+2d:["$","meta","6",{"property":"og:url","content":"https://nimabn90.github.io/nima-cafe-pages/about/"}]
+2e:["$","meta","7",{"property":"og:site_name","content":"نیما کافه"}]
+2f:["$","meta","8",{"property":"og:locale","content":"fa_IR"}]
+30:["$","meta","9",{"property":"og:image","content":"https://nimabn90.github.io/nima-cafe-pages/images/share/story-v1.jpg"}]
+31:["$","meta","10",{"property":"og:image:type","content":"image/jpeg"}]
+32:["$","meta","11",{"property":"og:image:width","content":"1200"}]
+33:["$","meta","12",{"property":"og:image:height","content":"630"}]
+34:["$","meta","13",{"property":"og:image:alt","content":"پنجره و صندلی‌های نیما کافه در نور عصر"}]
+35:["$","meta","14",{"property":"og:type","content":"website"}]
+36:["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}]
+37:["$","meta","16",{"name":"twitter:title","content":"داستان ما | نیما کافه"}]
+38:["$","meta","17",{"name":"twitter:description","content":"داستان نیما کافه، از انتخاب دانه تا یک فنجان کنار پنجره."}]
+39:["$","meta","18",{"name":"twitter:image","content":"https://nimabn90.github.io/nima-cafe-pages/images/share/story-v1.jpg"}]
+3a:["$","meta","19",{"name":"twitter:image:alt","content":"پنجره و صندلی‌های نیما کافه در نور عصر"}]
+3b:["$","link","20",{"rel":"icon","href":"/nima-cafe-pages/favicon-32.png","sizes":"32x32","type":"image/png"}]
+3c:["$","link","21",{"rel":"icon","href":"/nima-cafe-pages/favicon-192.png","sizes":"192x192","type":"image/png"}]
+3d:["$","link","22",{"rel":"apple-touch-icon","href":"/nima-cafe-pages/apple-touch-icon.png","sizes":"180x180","type":"image/png"}]
+3e:["$","$L46","23",{}]
+3f:["$","meta",null,{"name":"next-size-adjust","content":""}]
+17:300
+45:null
+42:true
+17:C
+41:0
+19:"$undefined"
+16:"$undefined"
+40:"$undefined"
+23:"$undefined"

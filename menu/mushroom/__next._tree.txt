@@ -1,0 +1,8 @@
+:HL["/nima-cafe-pages/_next/static/chunks/1w9dp2zxgakw2.css","style"]
+:HL["/nima-cafe-pages/_next/static/chunks/1zpzffoyhowkr.css","style"]
+:HL["/nima-cafe-pages/_next/static/media/Vazirmatn-s.p.0tzxgo2fuaf-x.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/nima-cafe-pages/_next/static/chunks/21offak6n5dtm.css","style"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"id","t":"d","k":"mushroom","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"menu","h":131168,"c":"$Q2"}]]
+0:{"b":"A4E5Vca1WA44OLs34g6LJ","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
